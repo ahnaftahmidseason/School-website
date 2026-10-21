@@ -1,0 +1,32 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.stackdump
+
+# Editor / IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Server / Log Files
+*.log
+error_log
+access_log
+
+# Temporary / Cache Files
+*.tmp
+*.temp
+*~
+.cache/
+
+# Local Environment Overrides (optional)
+# comment-system/config.local.php
